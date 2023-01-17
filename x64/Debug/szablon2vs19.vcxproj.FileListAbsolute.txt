@@ -1,0 +1,4 @@
+C:\Users\szymo\Desktop\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\szymo\Desktop\Nowy folder\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\szymo\Desktop\SpyHunterPP\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\szymo\Desktop\SpyHunterPP1\template-project-2\x64\Debug\szablon2vs19.exe
