@@ -3,7 +3,6 @@
 #include<string.h>
 #include <time.h>
 #include <stdlib.h>
-#define _USE_MATH_DEFINES
 #define NORMAL_CAR_SPEED 200
 #define MAX_CAR_SPEED 500
 #define MIN_CAR_SPEED 150
